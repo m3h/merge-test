@@ -1,2 +1,2 @@
-def fn(p2):
+def fn(p1, p2):
     print(locals())
